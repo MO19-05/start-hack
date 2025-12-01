@@ -1,0 +1,9 @@
+PyGObject>=3.42.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+onnx>=1.15.0
+onnxruntime>=1.16.0
+
+
+
+# https://f5a7912ee4e3.ngrok-free.app
