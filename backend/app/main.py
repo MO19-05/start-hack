@@ -400,3 +400,4 @@ async def websocket_notifications(ws: WebSocket):
             await ws.receive_text()
     except WebSocketDisconnect:
         manager.disconnect(ws)
+

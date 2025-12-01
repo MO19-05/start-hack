@@ -33,3 +33,4 @@ echo "  ./run_detector.sh --mode record-detect-display \\     # Everything!"
 echo "                    --compare --device 2 --verbose"
 echo ""
 echo "=========================================="
+

@@ -34,3 +34,4 @@ if len(contours) > 0:
     for i, cnt in enumerate(contours[:5]):  # Show first 5
         x, y, w, h = cv2.boundingRect(cnt)
         print(f"  Region {i+1}: x={x}, y={y}, w={w}, h={h}")
+

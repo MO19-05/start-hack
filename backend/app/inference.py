@@ -242,3 +242,4 @@ def get_room_frame(room_id: str) -> Optional[bytes]:
 
     # No real camera available; return None so caller can degrade gracefully
     return None
+

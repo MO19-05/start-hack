@@ -11,3 +11,4 @@ fi
 # Activate virtual environment and run detector
 source venv/bin/activate
 python3 object_detector.py "$@"
+

@@ -306,3 +306,4 @@ def start_camera_service(device: int = 0, model_type: str = 'onnx', verbose: boo
 
 def get_camera_service() -> Optional[CameraService]:
     return _service
+

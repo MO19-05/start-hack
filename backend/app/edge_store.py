@@ -48,3 +48,4 @@ def get_status(room_id: str) -> Dict[str, Any]:
         if not entry:
             return {'ok': False}
         return {'ok': True, 'ts': entry.get('ts'), 'counts': entry.get('counts'), 'boxes': entry.get('boxes')}
+

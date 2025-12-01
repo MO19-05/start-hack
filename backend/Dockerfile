@@ -22,3 +22,4 @@ EXPOSE 8000
 
 # Use a single worker for resource constrained devices like Raspberry Pi
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]
+

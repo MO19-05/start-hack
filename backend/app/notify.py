@@ -50,3 +50,4 @@ def send_email_sync(subject: str, body: str, recipients: Optional[List[str]] = N
 
 async def send_email_async(subject: str, body: str, recipients: Optional[List[str]] = None) -> bool:
     return await asyncio.to_thread(send_email_sync, subject, body, recipients)
+

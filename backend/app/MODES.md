@@ -80,3 +80,4 @@
 ## ⚠️ Important
 
 **Always stop recording with Ctrl+C** to ensure the MP4 file is properly finalized with the moov atom. Using `timeout` or `kill -9` will create invalid files.
+

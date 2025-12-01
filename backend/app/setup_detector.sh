@@ -75,3 +75,4 @@ echo "Or use the run script:"
 echo "  ./run_detector.sh"
 echo ""
 echo "Note: If model files are missing, the script will run in demo mode"
+

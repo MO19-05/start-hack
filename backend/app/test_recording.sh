@@ -65,3 +65,4 @@ echo "  gst-play-1.0 recording_YYYYMMDD_HHMMSS.mp4"
 echo "  vlc recording_YYYYMMDD_HHMMSS.mp4"
 echo "  ffplay recording_YYYYMMDD_HHMMSS.mp4"
 echo ""
+

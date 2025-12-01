@@ -278,3 +278,4 @@ export function RoomDetailDialog({ room, open, onOpenChange, onStatusUpdate }: R
     </Dialog>
   );
 }
+

@@ -148,3 +148,4 @@ Test specific camera:
 ```bash
 ./run_detector.sh --device 2
 ```
+

@@ -121,3 +121,4 @@ The project uses Supabase Edge Functions for features like email alerts.
 
 ## Team
 Ska, Jasser, Moritz
+

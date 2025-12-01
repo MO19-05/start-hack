@@ -97,3 +97,4 @@ export function RoomCard({ room, onClick }: RoomCardProps) {
     </div>
   );
 }
+
