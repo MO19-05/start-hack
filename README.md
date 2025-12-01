@@ -1,11 +1,10 @@
 # START Hackathon - One-Ware Challenge
 
-
 ## Project vision
 
 An end-to-end computer vision solution that enables real-time monitoring of physical spaces, providing actionable insights for occupancy management and facility cleanliness. By leveraging One-Ware's integrated platform, we demonstrate how to build, train, and deploy production-ready AI models in 24 hours.
 
-Running them on different hardware devices and comparing their performance. 
+Running them on different hardware devices and comparing their performance - including a Raspberry Pi 5. 
 
 ## Core Capabilities
 
@@ -19,7 +18,26 @@ Automatically identifies when spaces require cleaning by detecting visual indica
 
 Accurately counts and tracks the number of occupants in real-time, enabling dynamic utilization insights and occupancy analytics.
 
-## Problem
+## What we built in 24 hours
+
+![Overview](public/images/overview.jpeg)
+
+![Process](public/images/process.jpeg)
+
+![Training 1](public/images/training1.jpeg)
+
+![Test 1](public/images/test1.jpeg)
+
+![Training 2](public/images/training2.jpeg)
+
+![Test 2](public/images/test2.jpeg)
+
+## Demo/Presentation
+
+https://clear-space-vision.lovable.app/
+
+
+## Possible applications: Problem
 
 Modern workplaces and shared spaces face persistent challenges:
 
